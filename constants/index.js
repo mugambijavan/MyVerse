@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Discover a realm that resonates with your desires and beckons you to step inside.',
+  'Immerse yourself in a new worlds embrace, uttering the sacred words of Bismillah to invoke protection.',
+  'Unleash your spirit without hesitation, fuel your journey with unwavering determination, and revel in the sheer delight that lies ahead.',
 ];
 
 export const newFeatures = [
@@ -37,26 +37,26 @@ export const newFeatures = [
     imgUrl: '/vrpano.svg',
     title: 'A new world',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Discover the latest update, unveiling a mesmerizing new world for your exploration. ',
   },
   {
     imgUrl: '/headset.svg',
     title: 'More realistic',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Step into our latest update and behold a world of unparalleled realism, where your narrow gaze unveils a breathtakingly lifelike realm, surpassing imagination and immersing you in a boundless adventure',
   },
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'The launch of the MyVerse makes CahMyrrh ketar-ketir',
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: '7 tips to easily master the madness of the MyVerse',
     subtitle:
         'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
   },
