@@ -71,18 +71,18 @@ export const insights = [
 export const socials = [
   {
     name: 'twitter',  
-    url: '/twitter.svg',
+    url: 'https://twitter.com/mugambi_javan',
   },
   {
     name: 'linkedin',
-    url: '/linkedin.svg',
+    url: 'https://www.linkedin.com/in/javan-mugambi-2351a81b0/',
   },
   {
     name: 'instagram',
-    url: '/instagram.svg',
+    url: 'https://www.instagram.com/_javoh._/',
   },
   {
     name: 'github',
-    url: '/github.svg',
+    url: 'https://github.com/mugambijavan',
   },
 ];
