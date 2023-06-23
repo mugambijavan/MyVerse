@@ -82,7 +82,7 @@ export const socials = [
     url: '/instagram.svg',
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'github',
+    url: '/github.svg',
   },
 ];
