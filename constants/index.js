@@ -52,19 +52,19 @@ export const insights = [
     imgUrl: '/planet-06.png',
     title: 'The launch of the MyVerse makes CahMyrrh ketar-ketir',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Dream It. Chase It. Code It.',
   },
   {
     imgUrl: '/planet-07.png',
     title: '7 tips to easily master the madness of the MyVerse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'Dream It. Chase It. Code It.',
   },
   {
     imgUrl: '/planet-08.png',
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'Dream It. Chase It. Code It.',
   },
 ];
 
